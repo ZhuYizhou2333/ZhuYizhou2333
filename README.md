@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZhuYizhou2333
-- 👀 I’m interested in physics, machine learning and economic.
-- 🤓 You can find somthing about fortunetelling or neutrino in my repertory.
+- 👀 I’m interested in physics, machine learning and finance.
+- 🤓 You can find something about fortunetelling in my repertory.
 - 📫 How to reach me: Please email me at 2135378845@qq.com.
 
 <!---
